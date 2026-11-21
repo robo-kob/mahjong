@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "deny": [
+      "Bash(git merge:*)",
+      "Bash(git push origin main*)",
+      "Bash(git push -f*)",
+      "Bash(git push)",
+      "Bash(gh pr merge:*)",
+      "Read(**/*.p12)",
+      "Read(**/*.mobileprovision)",
+      "Read(**/*.cer)",
+      "mcp__unifi",
+      "mcp__homelable",
+      "mcp__claude_ai_HA-MCP",
+      "mcp__claude_ai_Claude_Docs"
+    ]
+  }
+}
