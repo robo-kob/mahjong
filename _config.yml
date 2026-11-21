@@ -1,0 +1,33 @@
+# Webseite zur App: Handbuch, Support, Datenschutz (GitHub Pages, Jekyll)
+
+# Arbeitstitel – der Name der App steht nur hier.
+app_name: "Mahjong Meister"
+# Name unter dem App-Symbol auf dem iPhone (so heißt die App auch in den iOS-Einstellungen).
+app_short_name: "Mahjong"
+
+contact_email: "robokob.app@proton.me"
+
+baseurl: "/mahjong"
+url: "https://robo-kob.github.io"
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  auto_ids: true
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+      lang: de
+  - scope:
+      path: "en"
+    values:
+      lang: en
+
+exclude:
+  - README.md
+  - store
+  - .claude
+  - .gitignore
