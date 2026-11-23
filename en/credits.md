@@ -31,11 +31,11 @@ Flowers, seasons and the white dragon are original drawings for this app. Which 
 
 ### Space
 
-- **Images:** 42 space images
+- **Images:** 42 space images: planets, moons, constellations, spaceflight, friendly aliens
 - **Author:** Good Stuff No Nonsense ([Space Icons](https://goodstuffnononsense.com/hand-drawn-icons/space-icons/)); compiled as a tile set by ffalt
 - **Source:** [ffalt/mah](https://github.com/ffalt/mah)
-- **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-- **Changes:** split into individual images, otherwise unchanged.
+- **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), as stated on the download page. The pack comes with its own license: use in apps is allowed, attribution is appreciated.
+- **Changes:** split into individual images. Ten images that depicted or resembled characters and vehicles from films, series and games have been replaced by other images from the same pack: space shuttle, landing capsule, radio telescope, observatory, lunar rover, flag on the moon, space capsule, star, cockpit view, stars. The images themselves are unchanged.
 
 ### Zodiac
 

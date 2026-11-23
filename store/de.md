@@ -95,7 +95,7 @@ Solitär,Brettspiel,Steine,Paare,Puzzle,Zen,Entspannen,Offline,Denkspiel,Triple 
 – Neue Steinsätze: „Tierkreis“ in Tusche und Siegel, die verspielten „Tiere“ und der „Mix“ aus allen Bildsätzen.
 – „Alle Motive“: jeden Steinsatz in den Einstellungen groß ansehen.
 – Startbildschirm in zwei Gruppen: „Der Weg zum Meister“ und „Zwischendurch“.
-– Neue Musik und viele kleine Verbesserungen.
+– Musik gleichmäßiger abgemischt und viele kleine Verbesserungen.
 ```
 
 ## Store-Screenshots (Vorschlag)
@@ -130,6 +130,6 @@ Nur Vorschlag; die echten Store-Screenshots entstehen zu 1.0.
 | Beschreibung (2) | 117 | 4000 | Zeichen | ✔ |
 | Beschreibung mit optionalem Absatz | 1777 | 4000 | Zeichen | ✔ |
 | Schlüsselwörter | 96 | 100 | Byte | ✔ |
-| Neuerungen (0.8.x) | 544 | 4000 | Zeichen | ✔ |
+| Neuerungen (0.8.x) | 564 | 4000 | Zeichen | ✔ |
 
 <!-- laengen:end -->

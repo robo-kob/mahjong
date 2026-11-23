@@ -13,7 +13,11 @@ Vier Spielarten: Klassisch, Klassisch mit Ablage, Triple Match und Shisen-Sho. J
 
 Gestaltet im Stil japanischer Tuschemalerei, mit ruhiger Musik und sanften Klängen. Die Steine wählst du nach deinem Geschmack: traditionell oder ausgefallen – Tierkreis in Tusche, Vögel, Tiere oder alles bunt gemischt. Hell und dunkel, Deutsch und Englisch.
 
-<!-- Screenshots folgen: Startbildschirm, ein Brett, Level-Weg -->
+<div class="shots">
+<img src="{{ '/assets/screens/de/start.jpg' | relative_url }}" alt="Startbildschirm mit dem Knopf „Spielen“ und den Kacheln der Spielarten" width="600" height="1225" loading="lazy">
+<img src="{{ '/assets/screens/de/klassisch.jpg' | relative_url }}" alt="Brett in Klassisch mit traditionellen Steinen" width="600" height="1225" loading="lazy">
+<img src="{{ '/assets/screens/de/weg.jpg' | relative_url }}" alt="Level-Weg mit den ersten Stationen in der Landschaft „Morgen“" width="600" height="1225" loading="lazy">
+</div>
 
 ## Stand
 

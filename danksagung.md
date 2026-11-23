@@ -31,11 +31,11 @@ Blumen, Jahreszeiten und der weiße Drache sind eigene Zeichnungen für diese Ap
 
 ### Weltraum
 
-- **Motive:** 42 Weltraum-Motive
+- **Motive:** 42 Weltraum-Motive: Planeten, Monde, Sternbilder, Raumfahrt, freundliche Außerirdische
 - **Urheber:** Good Stuff No Nonsense ([Space Icons](https://goodstuffnononsense.com/hand-drawn-icons/space-icons/)); als Steinsatz zusammengestellt von ffalt
 - **Quelle:** [ffalt/mah](https://github.com/ffalt/mah)
-- **Lizenz:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-- **Änderungen:** in einzelne Motive zerlegt, sonst unverändert.
+- **Lizenz:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), so die Download-Seite. Das Paket legt eine eigene Lizenz bei: Nutzung in Apps erlaubt, Namensnennung erwünscht.
+- **Änderungen:** in einzelne Motive zerlegt. Zehn Motive, die Figuren und Fahrzeuge aus Filmen, Serien und Spielen nachzeichneten oder daran erinnerten, sind durch andere Motive desselben Pakets ersetzt: Raumfähre, Landekapsel, Radioteleskop, Sternwarte, Mondfahrzeug, Flagge auf dem Mond, Raumkapsel, Stern, Blick aus dem Cockpit, Sterne. Die Motive selbst sind unverändert.
 
 ### Tierkreis
 

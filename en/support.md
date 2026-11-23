@@ -17,7 +17,7 @@ To help find the problem, please include:
 
 - your **iPhone model** (e.g. iPhone 15 Pro),
 - the **iOS version** (Settings → General → About),
-- the **app version** – you find it at the very bottom of the app's Settings, such as “Mahjong 0.8.0 (Build 8)”,
+- the **app version** – you find it at the very bottom of the app's Settings, such as “Mahjong 0.8.1 (Build 9)”,
 - and briefly, **what happened**: what did you do, what did you expect, and what happened instead? The mode and level help, and so does a screenshot.
 
 ## For TestFlight testers {#testflight}

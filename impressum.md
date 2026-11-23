@@ -8,6 +8,7 @@ published: false
   VORLAGE – nicht veröffentlicht (published: false) und nirgends verlinkt.
   Pflichtangaben nach § 5 DDG. Vor dem Veröffentlichen alle [PLATZHALTER] füllen,
   published: false entfernen und die Seite in _data/nav.yml bzw. im Fuß verlinken.
+  Anschrift: ladungsfähig, ein Postfach reicht nicht.
   Keine Rechtsberatung.
 -->
 
@@ -19,8 +20,6 @@ Angaben gemäß § 5 DDG
 **[STRASSE HAUSNUMMER]**<br>
 **[PLZ ORT]**<br>
 **[LAND]**
-
-<!-- Hinweis: Es muss eine ladungsfähige Anschrift sein. Ein Postfach reicht nicht. -->
 
 ## Kontakt
 

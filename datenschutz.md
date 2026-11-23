@@ -5,8 +5,6 @@ alt: /en/privacy/
 description: "Datenschutzerklärung für die App und diese Webseite."
 ---
 
-<!-- ENTWURF – vor Veröffentlichung von Roland Horaczek zu prüfen. Keine Rechtsberatung. -->
-
 # Datenschutz
 
 Kurz gesagt: **Die App erhebt keine Daten.** Ausführlich:
@@ -32,11 +30,10 @@ Wenn du mir schreibst, verwende ich deine E-Mail-Adresse und den Inhalt deiner N
 
 Die App wird über TestFlight und den App Store von Apple verteilt. Was Apple dabei verarbeitet (etwa beim Laden oder beim Kauf), geschieht nach den Bedingungen und der [Datenschutzrichtlinie von Apple](https://www.apple.com/de/legal/privacy/de-ww/).
 
-Absturz- und Nutzungsdaten erhalte ich über Apple nur, wenn du der Weitergabe in iOS zugestimmt hast (Einstellungen → Datenschutz & Sicherheit → Analyse & Verbesserungen). Diese Daten sind nicht mit deinem Namen verknüpft. Testest du über TestFlight, sehe ich außerdem, was du über „Beta-Feedback senden“ selbst schickst<!-- PRÜFEN: Bei Einladung per E-Mail kennt der Entwickler auch Name/E-Mail des Testers. -->.
+Absturz- und Nutzungsdaten erhalte ich über Apple nur, wenn du der Weitergabe in iOS zugestimmt hast (Einstellungen → Datenschutz & Sicherheit → Analyse & Verbesserungen). Diese Daten sind nicht mit deinem Namen verknüpft. Testest du über TestFlight, sehe ich außerdem, was du über „Beta-Feedback senden“ selbst schickst. Lade ich dich per E-Mail zum Test ein, kenne ich deinen Namen und deine E-Mail-Adresse.
 
 ## Verantwortlich {#verantwortlich}
 
-<!-- PLATZHALTER: Anschrift fehlt noch – vor Veröffentlichung ergänzen! -->
 Roland Horaczek<br>
 **[ANSCHRIFT – vor Veröffentlichung ergänzen]**<br>
 E-Mail: [{{ site.contact_email }}](mailto:{{ site.contact_email }})
@@ -45,4 +42,4 @@ E-Mail: [{{ site.contact_email }}](mailto:{{ site.contact_email }})
 
 Soweit ich Daten von dir verarbeite (praktisch nur bei einer E-Mail), hast du das Recht auf Auskunft, Berichtigung, Löschung und Einschränkung der Verarbeitung, auf Datenübertragbarkeit sowie das Recht, der Verarbeitung zu widersprechen. Schreib mir dafür einfach eine E-Mail. Außerdem kannst du dich bei einer Datenschutz-Aufsichtsbehörde beschweren.
 
-*Stand: 21. November 2026*
+*Stand: 23. November 2026*

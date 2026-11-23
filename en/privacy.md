@@ -5,8 +5,6 @@ alt: /datenschutz/
 description: "Privacy policy for the app and this website."
 ---
 
-<!-- DRAFT – to be reviewed by Roland Horaczek before publication. Not legal advice. The German version is authoritative. -->
-
 # Privacy
 
 In short: **the app collects no data.** In detail:
@@ -32,11 +30,10 @@ If you write to me, I use your email address and the content of your message onl
 
 The app is distributed through Apple's TestFlight and App Store. Whatever Apple processes in doing so (for example when you download or buy the app) is governed by Apple's terms and [Apple's privacy policy](https://www.apple.com/legal/privacy/en-ww/).
 
-I receive crash and usage data via Apple only if you have agreed to share it in iOS (Settings → Privacy & Security → Analytics & Improvements). This data is not linked to your name. If you test via TestFlight, I also see what you send yourself via “Send Beta Feedback”<!-- CHECK: with an email invitation, the developer also knows the tester's name/email. -->.
+I receive crash and usage data via Apple only if you have agreed to share it in iOS (Settings → Privacy & Security → Analytics & Improvements). This data is not linked to your name. If you test via TestFlight, I also see what you send yourself via “Send Beta Feedback”. If I invite you to the test by email, I know your name and email address.
 
 ## Controller {#controller}
 
-<!-- PLACEHOLDER: address still missing – add before publication! -->
 Roland Horaczek<br>
 **[ADDRESS – add before publication]**<br>
 Email: [{{ site.contact_email }}](mailto:{{ site.contact_email }})
@@ -45,4 +42,4 @@ Email: [{{ site.contact_email }}](mailto:{{ site.contact_email }})
 
 Insofar as I process data about you (in practice only when you send an email), you have the right to access, rectification, erasure and restriction of processing, to data portability, and the right to object to processing. Just send me an email. You can also lodge a complaint with a data protection supervisory authority.
 
-*Last updated: November 21, 2026*
+*Last updated: November 23, 2026*

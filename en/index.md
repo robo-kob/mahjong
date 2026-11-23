@@ -13,7 +13,11 @@ Four modes: Classic, Classic with Tray, Triple Match and Shisen-Sho. Each has it
 
 Designed in the style of Japanese ink painting, with calm music and soft sounds. Choose the tiles you like: traditional or something different – the Zodiac in ink, Birds, Animals or a colorful mix of everything. Light and dark, German and English.
 
-<!-- Screenshots to follow: home screen, a board, the path -->
+<div class="shots">
+<img src="{{ '/assets/screens/en/start.jpg' | relative_url }}" alt="Home screen with the “Play” button and the tiles of the modes" width="600" height="1226" loading="lazy">
+<img src="{{ '/assets/screens/en/klassisch.jpg' | relative_url }}" alt="Classic board with traditional tiles" width="600" height="1226" loading="lazy">
+<img src="{{ '/assets/screens/en/weg.jpg' | relative_url }}" alt="The path with the first stations in the “Morning” landscape" width="600" height="1226" loading="lazy">
+</div>
 
 ## Status
 

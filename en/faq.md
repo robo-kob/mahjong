@@ -25,6 +25,10 @@ The app has no language setting of its own. It follows your iPhone's language. T
 
 On iPhones with iOS 26 or later, in portrait only. It is tested on an iPhone 15 Pro and in the simulator at three screen widths: small (375 points, like an iPhone mini), medium (393 points) and large (440 points, like a Pro Max). There is no separate iPad version.
 
+### Why is it snowing on the home screen? {#snow}
+
+In December and January it snows on the home screen, in the Southern Hemisphere in June and July.
+
 ### Why does the app need no internet and show no ads? {#offline}
 
 Because a calm game doesn't need any of that. All games are created on your iPhone, and the music and images are part of the app. The app makes no internet connections and has no ads, no tracking and no accounts. More on this under [Privacy]({{ '/en/privacy/' | relative_url }}).

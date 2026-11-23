@@ -95,7 +95,7 @@ solitaire,tiles,pairs,puzzle,zen,relaxing,offline,brain,board game,triple match,
 – New tile sets: “Zodiac” in ink and seals, the playful “Animals” and the “Mix” of all picture sets.
 – “All Tiles”: view every tile set at a large size in Settings.
 – Home screen in two groups: “The Path to Mastery” and “On the Side”.
-– New music and many small improvements.
+– Music remastered to an even volume, plus many small improvements.
 ```
 
 ## Store screenshots (suggestion)
@@ -130,6 +130,6 @@ Suggestion only; the real store screenshots will be made for 1.0.
 | Description (2) | 124 | 4000 | Zeichen | ✔ |
 | Description mit optionalem Absatz | 1645 | 4000 | Zeichen | ✔ |
 | Keywords | 95 | 100 | Byte | ✔ |
-| What's New (0.8.x) | 497 | 4000 | Zeichen | ✔ |
+| What's New (0.8.x) | 524 | 4000 | Zeichen | ✔ |
 
 <!-- laengen:end -->

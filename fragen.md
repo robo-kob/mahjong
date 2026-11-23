@@ -25,6 +25,10 @@ Die App hat keine eigene Sprachwahl. Sie folgt der Sprache deines iPhones. Nur f
 
 Auf iPhones ab iOS 26, nur im Hochformat. Getestet wird auf einem iPhone 15 Pro und im Simulator auf drei Bildschirmbreiten: klein (375 Punkt, wie ein iPhone mini), mittel (393 Punkt) und groß (440 Punkt, wie ein Pro Max). Für das iPad gibt es keine eigene Fassung.
 
+### Warum schneit es auf dem Startbildschirm? {#schnee}
+
+Im Dezember und Januar schneit es auf dem Startbildschirm, auf der Südhalbkugel im Juni und Juli.
+
 ### Warum braucht die App kein Internet und zeigt keine Werbung? {#offline}
 
 Weil ein ruhiges Spiel nichts davon braucht. Alle Partien entstehen auf dem iPhone, Musik und Bilder sind in der App enthalten. Die App baut keine Verbindung ins Internet auf, hat keine Werbung, kein Tracking und keine Konten. Mehr dazu unter [Datenschutz]({{ '/datenschutz/' | relative_url }}).
