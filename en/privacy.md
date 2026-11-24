@@ -35,11 +35,14 @@ I receive crash and usage data via Apple only if you have agreed to share it in 
 ## Controller {#controller}
 
 Roland Horaczek<br>
-**[ADDRESS – add before publication]**<br>
+c/o flexdienst – #22753<br>
+Kurt-Schumacher-Straße 74<br>
+67663 Kaiserslautern<br>
+Germany<br>
 Email: [{{ site.contact_email }}](mailto:{{ site.contact_email }})
 
 ## Your rights {#rights}
 
 Insofar as I process data about you (in practice only when you send an email), you have the right to access, rectification, erasure and restriction of processing, to data portability, and the right to object to processing. Just send me an email. You can also lodge a complaint with a data protection supervisory authority.
 
-*Last updated: November 23, 2026*
+*Last updated: November 24, 2026*

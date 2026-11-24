@@ -67,7 +67,7 @@
   </main>
   <footer>
     <div class="wrap">
-      {% if lang == 'en' %}Contact{% else %}Kontakt{% endif %}: <a href="mailto:{{ site.contact_email }}">{{ site.contact_email }}</a>
+      {% if lang == 'en' %}Contact{% else %}Kontakt{% endif %}: <a href="mailto:{{ site.contact_email }}">{{ site.contact_email }}</a> · <a href="{{ '/impressum/' | relative_url }}">{% if lang == 'en' %}Legal notice (German){% else %}Impressum{% endif %}</a>
     </div>
   </footer>
 </body>

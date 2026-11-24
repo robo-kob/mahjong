@@ -35,11 +35,14 @@ Absturz- und Nutzungsdaten erhalte ich über Apple nur, wenn du der Weitergabe i
 ## Verantwortlich {#verantwortlich}
 
 Roland Horaczek<br>
-**[ANSCHRIFT – vor Veröffentlichung ergänzen]**<br>
+c/o flexdienst – #22753<br>
+Kurt-Schumacher-Straße 74<br>
+67663 Kaiserslautern<br>
+Deutschland<br>
 E-Mail: [{{ site.contact_email }}](mailto:{{ site.contact_email }})
 
 ## Deine Rechte {#rechte}
 
 Soweit ich Daten von dir verarbeite (praktisch nur bei einer E-Mail), hast du das Recht auf Auskunft, Berichtigung, Löschung und Einschränkung der Verarbeitung, auf Datenübertragbarkeit sowie das Recht, der Verarbeitung zu widersprechen. Schreib mir dafür einfach eine E-Mail. Außerdem kannst du dich bei einer Datenschutz-Aufsichtsbehörde beschweren.
 
-*Stand: 23. November 2026*
+*Stand: 24. November 2026*
